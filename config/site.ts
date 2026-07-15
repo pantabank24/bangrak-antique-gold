@@ -2,7 +2,7 @@ export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
   name: "บางรัก แอนทีค | เช็คราคาทอง ตรวจราคาทอง ประเมินราคาทอง",
-  url: "https://example.com/",
+  url: "https://bangrak-antique-gold.vercel.app/",
   description: "บางรัก แอนทีค | รับเช่าพระเครื่อง-พระบูชา รับซื้อของเก่าของโบราณ และกระเพาะปลาเก่า แอดไลน์ https://page.line.me/buybangrak โทร 0969128888 หรือเดินทางมาที่ร้าน https://maps.app.goo.gl/W2riCWFrxUn8LC6F8",
   navItems: [
   ],
